@@ -164,6 +164,11 @@ Esta estrategia permitió:
 
 La categoría "Otros" representa la suma consolidada de países con menor participación individual dentro del monto total transaccional.
 
+## Dashboard Access
+
+The Power BI dashboard file can be downloaded from the following link:
+https://drive.google.com/file/d/1w3D1wQ2UIm4KHooD748PlybhHuoDZUf_/view?usp=drive_link
+
 ---
 
 
@@ -200,3 +205,5 @@ En un entorno productivo esta solución podría evolucionar hacia:
 El proyecto permitió construir una solución de Analytics Engineering y Business Intelligence enfocada en rendimiento, análisis ejecutivo y consistencia financiera.
 
 La implementación del modelo dimensional, la estrategia de cashback y el diseño ejecutivo del dashboard permitieron transformar información transaccional en insights accionables para la toma de decisiones.
+
+
